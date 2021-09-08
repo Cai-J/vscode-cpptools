@@ -7,6 +7,7 @@
 	"build_active_file": "générer le fichier actif",
 	"compiler_details": "compilateur :",
 	"task_generated_by_debugger": "Tâche générée par le débogueur.",
+	"cannot.build.non.cpp": "Cannot build and debug because the active file is not a C or C++ source file.",
 	"starting_build": "Démarrage de la génération...",
 	"build_finished_with_error": "La génération s'est achevée avec une ou plusieurs erreurs",
 	"build_finished_with_warnings": "La génération s'est achevée avec un ou plusieurs avertissements",

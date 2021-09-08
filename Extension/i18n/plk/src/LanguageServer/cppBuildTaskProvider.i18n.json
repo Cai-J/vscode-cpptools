@@ -7,6 +7,7 @@
 	"build_active_file": "kompiluj aktywny plik",
 	"compiler_details": "kompilator:",
 	"task_generated_by_debugger": "Zadanie wygenerowane przez debuger.",
+	"cannot.build.non.cpp": "Cannot build and debug because the active file is not a C or C++ source file.",
 	"starting_build": "Trwa uruchamianie kompilacji...",
 	"build_finished_with_error": "Kompilacja została zakończona z błędami",
 	"build_finished_with_warnings": "Kompilacja została zakończona z ostrzeżeniami",

@@ -7,6 +7,7 @@
 	"build_active_file": "сборка активного файла",
 	"compiler_details": "компилятор:",
 	"task_generated_by_debugger": "Задача создана отладчиком.",
+	"cannot.build.non.cpp": "Cannot build and debug because the active file is not a C or C++ source file.",
 	"starting_build": "Запуск сборки…",
 	"build_finished_with_error": "Сборка завершена с ошибками",
 	"build_finished_with_warnings": "Сборка завершена с предупреждениями.",

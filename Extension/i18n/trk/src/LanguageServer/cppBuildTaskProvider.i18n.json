@@ -7,6 +7,7 @@
 	"build_active_file": "etkin dosyayı derle",
 	"compiler_details": "derleyici:",
 	"task_generated_by_debugger": "Hata Ayıklayıcısı tarafından oluşturulan görev.",
+	"cannot.build.non.cpp": "Cannot build and debug because the active file is not a C or C++ source file.",
 	"starting_build": "Derleme başlatılıyor...",
 	"build_finished_with_error": "Derleme hatalarla tamamlandı",
 	"build_finished_with_warnings": "Derleme uyarlılarla tamamlandı",
